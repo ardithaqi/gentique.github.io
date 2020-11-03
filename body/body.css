@@ -168,3 +168,9 @@ nav ul li a:hover::after{
 	  opacity: 1;
   }
 }
+#body{
+    position: relative;
+    padding-left: 20%;
+    padding-top: 7%;
+    color: #eee;
+}
