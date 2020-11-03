@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(214, 333, 214);
+}
+.navbar-light .navbar-brand{
+    font-family: 'Syne Mono', monospace;
+}
+.navbar-light .nav-link{
+    font-family: 'Syne Mono', monospace;
+}
